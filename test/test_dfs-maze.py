@@ -1,4 +1,8 @@
+import sys
+sys.path.append('/home/maged/repos/algos/dfs-maze/')
+
 import dfs_maze
+
 """
 Test dfs_maze module
 TODO:
